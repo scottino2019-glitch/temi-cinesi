@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@media print {
+  body {
+    background-color: white !important;
+    color: black !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* Hide everything except printable sheets */
+  nav, button, .no-print {
+    display: none !important;
+  }
+
+  .break-after-page {
+    page-break-after: always !important;
+    break-after: page !important;
+  }
+}
