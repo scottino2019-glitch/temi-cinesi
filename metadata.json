@@ -1,0 +1,6 @@
+{
+  "name": "Quaderno Cinese",
+  "description": "Homepage interattiva a forma di grande quaderno cinese a quadretti con pinyin, copertina autentica, sfoglio delle pagine e indice a scomparsa per i temi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
