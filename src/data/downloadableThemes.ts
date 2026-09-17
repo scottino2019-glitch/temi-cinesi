@@ -26,4 +26,14 @@ export const downloadableThemes: DownloadableTheme[] = [
     hskLevel: 'HSK 3',
     description: 'Foglio A4 autonomo a 12 colonne con pinyin e traduzione in italiano',
   },
+  {
+    id: 'pengyou',
+    titleZh: '朋友',
+    titleIt: "Migliore Amico",
+    fileName: 'pengyou.html',
+    fileUrl: '/temi/pengyou.html',
+    date: '16/09/2026',
+    hskLevel: 'HSK 2',
+    description: 'Foglio A4 autonomo a 12 colonne con pinyin e traduzione in italiano',
+  },
 ];
