@@ -36,4 +36,14 @@ export const downloadableThemes: DownloadableTheme[] = [
     hskLevel: 'HSK 2',
     description: 'Foglio A4 autonomo a 12 colonne con pinyin e traduzione in italiano',
   },
+  {
+    id: 'meimei',
+    titleZh: '妹妹',
+    titleIt: "Mia Sorella",
+    fileName: 'meimei.html',
+    fileUrl: '/temi/meimei.html',
+    date: '19/09/2026',
+    hskLevel: 'HSK 1',
+    description: 'Foglio A4 autonomo a 12 colonne con pinyin e traduzione in italiano',
+  },
 ];
